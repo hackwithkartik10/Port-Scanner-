@@ -13,7 +13,7 @@
 ## Installation
 
 ```bash
-https://github.com/hackwithkartik10/Port-Scanner-.git
+git clone https://github.com/hackwithkartik10/Port-Scanner-.git
 ```
 
 ## Usage
