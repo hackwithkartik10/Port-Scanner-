@@ -14,18 +14,19 @@
 
 ```bash
 git clone https://github.com/hackwithkartik10/Port-Scanner-.git
+cd Port-Scanner-
 ```
 
 ## Usage
 
 ```bash
-python scanner.py <target-ip>
+python3 port.py
 ```
 
 Example:
 
 ```bash
-python scanner.py 192.168.1.1
+Enter Your IP/Domain = Examp 192.68.1.1
 ```
 
 ## Requirements
